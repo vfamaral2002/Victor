@@ -1,0 +1,6 @@
+def main():
+  a=int(input("Digite o valor da nota A"))
+  b=int(input("Digite o valor da nota B"))
+  media=a+b/2
+  print("Sua média eh:",media)
+main()
